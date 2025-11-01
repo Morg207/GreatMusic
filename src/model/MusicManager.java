@@ -96,7 +96,7 @@ public class MusicManager {
 	} 
 	
 	public void mute() {
-		if (musicClip.isControlSupported(FloatControl.Type.MASTER_GAIN)) {
+		if (musicClip != null && musicClip.isControlSupported(FloatControl.Type.MASTER_GAIN)) {
 			muted = !muted;
 			if(muted) {
               volume = 0f;
