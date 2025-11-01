@@ -22,7 +22,6 @@ Enjoy your music with a beautiful interface and powerful controls – all in one
 
 ## 🖥️ Screenshots
 
-*(Include screenshots of your app here to show off the sleek FlatLaf theme!)*  
 <img width="1247" height="840" alt="Great Music Screenshot" src="https://github.com/user-attachments/assets/7f11d468-0f0a-49eb-a21f-2e9b99fbc828" />
 
 ---
