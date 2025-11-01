@@ -16,7 +16,8 @@ Enjoy your music with a beautiful interface and powerful controls – all in one
 - 🎵 **Load Tracks from Disk** – Add your favorite songs with ease  
 - 📃 **Playlist View** – See all your loaded songs and select any track  
 - 🔊 **Currently Playing Song** – Always know what’s on  
-- 👋 **Welcome Message** – Friendly greeting when you launch the app  
+- 👋 **Welcome Message** – Friendly greeting when you launch the app
+- **Adjust volume** - Use the slider to adjust the volume of the music
 
 ---
 
