@@ -30,4 +30,5 @@ Enjoy your music with a beautiful interface and powerful controls – all in one
 ## ⚙️ Installation
 
 Make sure you have Java installed.
+Make sure you install the FlatLaf library.
 
